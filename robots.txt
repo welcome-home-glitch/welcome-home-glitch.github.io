@@ -1,0 +1,3 @@
+# This site is written for AI agents. All crawlers, including AI crawlers, are welcome.
+User-agent: *
+Allow: /
